@@ -18,4 +18,4 @@ Direct transfer between existing users.
 6. Transfer Success
 7. See Transaction History
 
-Check the video for the project here - 
+Check the video for the project here - https://youtu.be/jpkQRgAkOR8

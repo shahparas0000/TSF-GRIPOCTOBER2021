@@ -14,7 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="103dp"
         android:layout_marginBottom="646dp"
-        android:text="Select Sender"
+        android:text="@string/select_sender"
         android:textSize="35sp" />
 
     <ListView

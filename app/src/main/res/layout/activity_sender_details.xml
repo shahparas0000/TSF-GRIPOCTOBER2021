@@ -14,7 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="98dp"
         android:layout_marginBottom="629dp"
-        android:text="Sender Details"
+        android:text="@string/sender_details"
         android:textSize="34sp" />
 
     <TextView
@@ -25,7 +25,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="562dp"
-        android:text="Name"
+        android:text="@string/name"
         android:textSize="20sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -38,7 +38,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="528dp"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
     <TextView
         android:id="@+id/email_disp"
@@ -48,7 +48,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="445dp"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
     <TextView
         android:id="@+id/email_text"
@@ -58,7 +58,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="475dp"
-        android:text="Email"
+        android:text="@string/email"
         android:textSize="20sp" />
 
     <TextView
@@ -69,7 +69,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="385dp"
-        android:text="Mobile No."
+        android:text="@string/mobile_no"
         android:textSize="20sp" />
 
     <TextView
@@ -80,7 +80,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="306dp"
-        android:text="Account No."
+        android:text="@string/account_no"
         android:textSize="20sp" />
 
     <TextView
@@ -91,7 +91,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="358dp"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
     <TextView
         android:id="@+id/acc_disp"
@@ -101,7 +101,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="273dp"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
     <Button
         android:id="@+id/continue_btn"
@@ -111,7 +111,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="140dp"
         android:layout_marginBottom="75dp"
-        android:text="Continue"
+        android:text="@string/continue_btn"
         android:background="@color/green"
         android:textSize="20sp" />
 
@@ -123,7 +123,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="200dp"
         android:layout_marginBottom="180dp"
-        android:text="TextView" />
+        android:text="@string/textview" />
 
     <TextView
         android:id="@+id/bal_text"
@@ -133,7 +133,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="65dp"
         android:layout_marginBottom="210dp"
-        android:text="Current Balance"
+        android:text="@string/current_balance"
         android:textSize="20sp" />
 
     <TextView
@@ -144,6 +144,6 @@
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="340dp"
         android:layout_marginBottom="179dp"
-        android:text="Rs." />
+        android:text="@string/rs" />
 
 </RelativeLayout>

@@ -13,7 +13,7 @@
         android:layout_marginStart="45dp"
         android:layout_marginBottom="150dp"
         android:background="@color/green"
-        android:text="Transfer"
+        android:text="@string/transfer"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -25,7 +25,7 @@
         android:layout_marginEnd="45dp"
         android:layout_marginBottom="150dp"
         android:background="@color/green"
-        android:text="History"
+        android:text="@string/history"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
@@ -39,14 +39,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.232"
-        app:srcCompat="@drawable/logo" />
+        app:srcCompat="@drawable/logo"
+        android:contentDescription="@string/image" />
 
     <TextView
         android:id="@+id/mainpagetextview"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="250dp"
-        android:text="Get Started"
+        android:text="@string/get_started"
         android:textSize="24sp"
         android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -58,7 +59,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="20dp"
-        android:text="GRIP Bank"
+        android:text="@string/grip_bank"
         android:textSize="50sp"
         app:layout_constraintBottom_toTopOf="@+id/mainpageimageview"
         app:layout_constraintEnd_toEndOf="parent"

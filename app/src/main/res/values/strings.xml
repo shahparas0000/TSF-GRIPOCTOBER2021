@@ -1,5 +1,31 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">BankingApplication</string>
-    <string name="sender_details">Sender Details.........</string>
+    <string name="sender_details">Sender Details</string>
     <string name="name">Name</string>
+    <string name="rs">Rs.</string>
+    <string name="send">Send</string>
+    <string name="sender_name">Sender Name</string>
+    <string name="confirm_transaction">Confirm Transaction</string>
+    <string name="textview">TextView</string>
+    <string name="receiver_name">Receiver Name</string>
+    <string name="sender_current_balance">Sender\'s Current Balance</string>
+    <string name="amount">Amount :</string>
+    <string name="transfer">Transfer</string>
+    <string name="history">History</string>
+    <string name="get_started">Get Started</string>
+    <string name="grip_bank">GRIP Bank</string>
+    <string name="image">Image</string>
+    <string name="choose_transaction_id">Choose Transaction ID</string>
+    <string name="time">Time</string>
+    <string name="amount1">Amount</string>
+    <string name="sender_account_no">Sender Account No.</string>
+    <string name="history_details">History Details</string>
+    <string name="return_home">Return Home</string>
+    <string name="select_receiver">Select Receiver</string>
+    <string name="email">Email</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="account_no">Account No.</string>
+    <string name="continue_btn">Continue</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="select_sender">Select Sender</string>
 </resources>
